@@ -23,7 +23,7 @@ P/F sistemi öğrenciler geçtikleri(AA/DD) dersleri **pass** olarak saydırarak
 
 Sistemin çeşitli kullanım durumlarını aşağıdaki gibi inceleyerek sizlerin aklındaki soruları ortadan kaldırmaya çalışacağız, sistemler ilgili herhangi bir durumda lütfen bizle [iletişime](http://alperenkeles.me/pass-fail-metu/contact/) geçiniz.
 
-- Probation(Sınamalı) Durumundaki Öğrenciler İçin: 
+- **Probation(Sınamalı) Durumundaki Öğrenciler İçin:**
 
 Ali 1.97 not ortalamasına sahip probation durumunda bir öğrenci olsun. 
 
@@ -31,11 +31,17 @@ Basitlik için Alinin 3 ders aldığını varsayalım.
 
 A, B, C derslerini sırasıyla DD, CB, CB olarak veren Ali'nin ortalaması normal şartlar altında 1.99'da kalacak iken DD verdiği dersi **pass** olarak saydırarak not ortalamasını 2.00 yaptı, bu sayede probationdan çıkarak önümüzdeki dönem üst sınıftan yeni dersler alabilecek.
 
-- Probation Sınırındaki Öğrenciler İçin:
+- **Probation Sınırındaki Öğrenciler İçin:**
 
 Hakan 2.04 not ortalamasına sahip bir öğrenci, ancak evinde ders çalışmak için yeterli imkanlara sahip değil, belki interneti, belki çalışacak alanı ya da kaynağı yok. Belki de daha kötü bir ihtimalde ailesinden birisi veya kendisi hasta, ancak eğitimini dönemini dondurmak istemeyip deneyeceği kadar devam ettirmesi gerekli.
 
 Hakan da yine 3 ders almış olsun,
 
 A, B, C derslerini sırasıyla FD, DC, CC olarak veren Ali'nin ortalaması normal şartlar altında 1.98'e düşecek iken B ve C derslerini **pass** olarak saydırarak not ortalamasını 2.01'de tutmayı başardı, bu sayede sonraki probationa düşme şansını kaldırmış oldu.
+
+- **Sistemin Faydalı Olmayacağı Öğrenciler:**
+
+Eğer ki evinizde ders çalışabiliyor, eğitiminize devam edebiliyor durumda iseniz ve tüm derslerinizden aldığınız harf notları sizin ortalamanızı yükseltiyorsa, öne sürülen sistem sizin için yararlı olmayacaktır. 
+
+Eğer ki bölüm sıralamanızı önemsiyor, bu sıralamayı bu dönem arttırmayı planlıyorsanız, öne sürülen sistem sizin için yararlı olmayacaktır.
 
