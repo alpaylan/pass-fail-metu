@@ -23,4 +23,6 @@ P/F sistemi öğrenciler geçtikleri(AA/DD) dersleri **pass** olarak saydırarak
 
 Sistemin çeşitli kullanım durumlarını aşağıdaki gibi inceleyerek sizlerin aklındaki soruları ortadan kaldırmaya çalışacağız, sistemler ilgili herhangi bir durumda lütfen bizle [iletişime](http://alperenkeles.me/pass-fail-metu/contact/) geçiniz.
 
-- Probation(Sınamalı) durumundaki öğrenciler için: 
+- Probation(Sınamalı) durumundaki öğrenciler için: Ali 1.97 not ortalamasına sahip probation durumunda bir öğrenci olsun. 
+Basitlik için Alinin 3 ders aldığını varsayalım. 
+A, B, C derslerini sırasıyla DD, CB, CB olarak veren Ali'nin ortalaması normal şartlar altında 1.99'da kalacak iken DD verdiği dersi **pass** olarak saydırarak not ortalamasını 2.00 yaptı, bu sayede probationdan çıkarak önümüzdeki dönem üst sınıftan yeni dersler alabilecek.
