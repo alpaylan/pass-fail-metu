@@ -1,5 +1,7 @@
-## ODTÜ Pass-Fail Sistemi Hakkında Bilgilendirme 
+# ODTÜ Pass-Fail Sistemi Hakkında Bilgilendirme 
 
-# Merhabalar Arkadaşlar
+## Merhabalar Arkadaşlar
+
+
 
 
