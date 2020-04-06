@@ -7,6 +7,7 @@
 
 [Sıkça Sorulan Sorular(SSS)/FAQ](http://alperenkeles.me/pass-fail-metu/faq/)
 
+[Süreç](http://alperenkeles.me/pass-fail-metu/process/)
 ## Merhabalar Arkadaşlar
 
 Bu siteyi, Covid-19 Salgını sonucunda oluşan kaos ve düzensizlik ortamında öğrenciler olarak yaşadığımız dezavantajlara bir nebze faydalı olacağını düşündüğümüz optional pass/fail(seçmeli geçme/kalma) adlı şu anki not sisteminden farklı bir sistemle ilgili, bu sisteme ODTÜ'de geçilmesi üzerine yapılan çalışmalarla igili sizleri bilgilendirmek için açtık.
@@ -44,4 +45,3 @@ A, B, C derslerini sırasıyla FD, DC, CC olarak veren Ali'nin ortalaması norma
 Eğer ki evinizde ders çalışabiliyor, eğitiminize devam edebiliyor durumda iseniz ve tüm derslerinizden aldığınız harf notları sizin ortalamanızı yükseltiyorsa, öne sürülen sistem sizin için yararlı olmayacaktır. 
 
 Eğer ki bölüm sıralamanızı önemsiyor, bu sıralamayı bu dönem arttırmayı planlıyorsanız, öne sürülen sistem sizin için yararlı olmayacaktır.
-
