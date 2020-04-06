@@ -2,7 +2,7 @@
 
 ## Merhabalar Arkadaşlar
 ### Gerekli Linkler
-[For English](https://github.com/alpaylan/pass-fail-metu/english)
+[For English](https://github.com/alpaylan/pass-fail-metu/english.html)
 
 
 
