@@ -18,7 +18,7 @@ Her dersin ders saati + (lab/recit saati)/2 kredisinin olduğu, ODTÜ'de uygulan
 
 ### Optional Pass/Fail -- Seçmeli Geçme/Kalma
 
-Ülkemizde Koç Üniversitesi, Boğaziçi Üniversitesi, Sabancı Üniversitesi tarafından kabul edilmiş, dünya genelinde MIT, Berkeley, Northwestern University, University of Michigan, Harvard University, Washington State University, Caltech, Stanford University gibi önde gelen kurumlar tarafından uygulanan alternatif notlandırma sistemidir.
+Ülkemizde [Koç Üniversitesi](http://alperenkeles.me/pass-fail-metu/koc-mail), [Boğaziçi Üniversitesi](http://alperenkeles.me/pass-fail-metu/boun-mail), [Sabancı Üniversitesi](http://alperenkeles.me/pass-fail-metu/sabanci-mail) tarafından kabul edilmiş, dünya genelinde MIT, Berkeley, Northwestern University, University of Michigan, Harvard University, Washington State University, Caltech, Stanford University gibi önde gelen kurumlar tarafından uygulanan alternatif notlandırma sistemidir.
 
 P/F sistemi öğrenciler geçtikleri(AA/DD) dersleri **pass** olarak saydırarak bu derslerin bağladığı dersleri alabildikleri, mezun olabildikleri yani dersi geçmiş sayıldıkları ancak dersin GPA/CGPA lerine etki etmediği bir sistemdir.
 
