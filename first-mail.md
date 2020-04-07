@@ -1,5 +1,3 @@
-```
-
 ODTÜ Rektörlüğüne,
 
 Covid-19 Salgını sonrası yaşanan kaos ortamının getirdiği sonuçların üniversitemiz öğrencilerinin ve öğretim elemanlarının hayat düzenini ciddi bir şekilde etkilediği açıktır. Pek çok öğrenci şehir değiştirmek, doğal ortamlarından uzaklaşmak durumunda kalmış, normal şartlarda öğretim süreçlerinde yararlandıkları ortam/internet/kitap gibi pek çok kaynaktan mahrum kalmışlardır. 
@@ -20,5 +18,3 @@ Dünya çapında MIT, Berkeley, Northwestern University, University of Michigan,
 
 Saygılarımla,
 
-
-```
