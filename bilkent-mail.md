@@ -1,0 +1,13 @@
+Üniversite Senatosu Kararı [ 8.4.2020 ] 
+
+Bilkent Üniversitesi Senatosu, koronavirüs pandemisine karşı alınan önlemler kapsamında, sadece eğitim ve değerlendirme etkinliklerinin uzaktan yapılmasının yedinci haftadan başlayarak zorunlu hale geldiği 2019-2020 Bahar yarıyılında geçerli olmak üzere, notlandırma sisteminde geçici değişikliğe gitmeye karar vermiştir. 
+
+2019-2020 Bahar yarıyılında, Bilkent Üniversitesi'nde verilen bütün kredili derslerde, ders notlarının açıklanmasını takip eden 3 iş günü içinde, isteyen öğrenciler seçecekleri derslerinin notlarının kayıtlara Geçti/Kaldı olarak yansıtılmasını tercih etme hakkına sahip olacaktır. Lisans programlarına kayıtlı öğrenciler için Geçti/Kaldı seçeneğini tercih ettikleri derslerden notu C veya daha yüksek olanlar için kayıtlara SE (Satisfactory - Extraordinary Circumstances) notu, notu C- veya daha düşük olanlar için ise kayıtlara UE (Unsatisfactory - Extraordinary Circumstances) notu yansıtılacaktır. Lisansüstü programlara kayıtlı öğrenciler için ise Geçti/Kaldı seçeneğini tercih ettikleri derslerden notu B veya daha yüksek olanlar için kayıtlara SE (Satisfactory - Extraordinary Circumstances) notu, notu B- veya daha düşük olanlar için ise kayıtlara UE (Unsatisfactory - Extraordinary Circumstances) notu yansıtılacaktır. SE notu alınan dersler başarılmış, UE notu alınmış dersler başarılmamış kabul edilecektir. 
+
+Öğrencilerin SE/UE notunu tercih edip etmeme kararlarının, önceki yarıyıllarda aldıkları dersler üzerinden hesaplanan genel not ortalamalarını koruyacak biçimde uygulanabilmesi amacıyla, 2019-2020 Bahar yarıyılı için SE ve UE notu alınan dersler not ortalamasına (GPA) ve genel not ortalamasına (CGPA) dahil edilmeyecektir. Daha önceki bir yarıyılda alınmış olup 2019-2020 Bahar yarıyılında tekrarlanan dersler ile daha önce alınmış bir seçmeli dersin yerine sayılmak üzere alınmış derslerde SE veya UE notu tercih edilirse önceki dersin notu genel not ortalamasında yer almaya devam edecektir. 
+
+Öğrencilerin SE veya UE aldıkları bir dersi ileriki bir yarıyılda tekrarlamaları lisans yönetmeliğinde yer alan ders tekrarı kuralları içerisinde değerlendirilecek, başarılı durumdaki öğrencilere SE aldıkları bir dersi takip eden iki yarıyıl içerisinde tekrarlama olanağı verilecektir. 
+
+İleriki yarıyıllarda alınacak derslerin önkoşullarının sağlanması bakımından SE/UE notlarına değil, öğrencinin ilk aldığı harf notuna bakılır. 
+
+Üstün Başarı Bursları ve Üniversite İçi Bölümler Arası Geçiş Yönergesi bakımından SE ve UE notu alınan dersler ders yüküne sayılmayacaktır.
