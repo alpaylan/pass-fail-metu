@@ -29,6 +29,7 @@ Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir
 
 Saygılarımızla,
 
+<div>
 <button id="button" data-clipboard-action="copy" data-clipboard-text="ODTÜ Senatosuna,
 
 16 Mart 2020 tarihinde YÖK kararı gereğince Covid-19 salgını neticesinde alınan önlemler kapsamında ülkemizdeki üniversitelerde eğitim durdurulmuş olup, daha sonra çevrimiçi uzaktan eğitim yöntemine geçilmiştir.
@@ -62,6 +63,7 @@ Saygılarımızla,
 " data-tippy-content="Kopyalandı. Mail açılıyor">
     Metni Kopyala
 </button>
+</div>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>
 <script src="https://unpkg.com/tippy.js@6"></script>
