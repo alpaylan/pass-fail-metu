@@ -13,7 +13,7 @@ Bu gibi sebepler neticesinde, biz öğrenciler, Türkiye'de Koç Üniversitesi, 
 
 Öğrencilerin en çok yararına olacağını düşündüğümüz sistem şu şekildedir:
 
-1 - Öğrenciler, kredili derslerde harf notunun yerine S-Satisfactory ve U-Unsatisfactory notunu seçme imkanına sahip olacaklardır. Bu imkan derslerin harf notları açıklandıktan sonra, öğrencilerin istedikleri derslerde harf notu yerine, DD ve üzerinde aldıkları derslerde S-Satisfactory notunu tercih edebilmesi şeklindedir.
+1 - Öğrenciler, kredili derslerde harf notunun yerine S-Satisfactory ve U-Unsatisfactory notunu seçme imkanına sahip olacaklardır. Bu imkan derslerin harf notları açıklandıktan sonra, öğrencilerin istedikleri derslerde harf notu yerine,Lisans Öğrencileri için DD ve üzerinde, Yüksek Lisans Öğrenciler için CC ve üzerinde aldıkları derslerde S-Satisfactory notunu tercih edebilmesi şeklindedir.
 2 - Harf notu tercih edilen derslerde öğrencilerin sayısal notunun karşılığı, normal dönemlerdeki gibi not ortalaması hesaplamalarına katılacaktır.
 3 - S-Satisfactory notu tercih edilen dersler başarıyla tamamlanmış sayılacak ve kredisi kazanılacak, ancak not ortalamasına etki etmeyecektir.
 
