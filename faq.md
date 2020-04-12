@@ -14,7 +14,7 @@ Hayır. Opsiyonel Pass/Fail sistemi kullanılarak S statüsünde verilen ders tr
 
 1. **Derslerimden birini pass/fail statüsüne aldığımda ilerde yabancı prestijli üniversitelere başvururken başarısız imajı vererek tercih edilmeme sebebi olacağını düşünüyorum. Bu doğru bir kaygı mı?**
 
-Sistemin sizlere zorunlu tuttuğu bir durum yok. Eğer aklınızda bir soru işareti varsa klasik harf notu sistemini seçmek sizin için daha makul olabilir. 
+Tüm dünyada etkili olan bu virüse karşı dünyanın önde gelen üniversitelerinde(MIT, Berkeley, Harvard...) de benzer uygulamalar kullanmaya başlandı ve çeşitli akreditasyon kuruluşları konuyla ilgili açıklamalarda bulundu. Ek olarak sistemin sizlere zorunlu tuttuğu bir durum yok. Eğer aklınızda bir soru işareti varsa klasik harf notu sistemini seçmek sizin için daha makul olabilir. 
 
 
 1. **Prob olan bir öğrenci tüm derslerini geçer verdiyse bile probdan çıkamayacak mı?**
