@@ -57,7 +57,7 @@ Bu sebepten biz ODTÜ öğrencileri olarak, siz üniversite senatosundan, öğre
 
 Geçtiğimiz haftalarda ODTÜ kamuoyunun görüşlerini almak için bu konuda bir anket çalışması düzenledik, 1421 kişinin katıldığı anketimizde %76,7(1090) kişi sisteme karşı pozitif, %15,6(222) kişi sisteme karşı nötr, %7,7(109) kişi pass/fail sistemine karşı negatif olduklarını belirttiler.
 
-Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1853 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
+Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1891 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
 
 Saygılarımızla
 
