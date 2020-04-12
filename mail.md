@@ -29,8 +29,8 @@ Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir
 
 Saygılarımızla,
 
-<div>
-<button id="button" data-clipboard-action="copy" data-clipboard-text="ODTÜ Senatosuna,
+<textarea style="display: none;" id="#textarea">
+ODTÜ Senatosuna,
 
 16 Mart 2020 tarihinde YÖK kararı gereğince Covid-19 salgını neticesinde alınan önlemler kapsamında ülkemizdeki üniversitelerde eğitim durdurulmuş olup, daha sonra çevrimiçi uzaktan eğitim yöntemine geçilmiştir.
 Bu geçiş, normal şartlarda okulumuzun bize sağlamış olduğu barınma, çalışma alanı, çalışma kaynağı, internet erişimi, bilgisayar erişimi gibi pek çok kaynağın sağlanamaması sonucunda eğitimde yüksek ölçüde fırsat eşitsizliğini de beraberinde getirmiştir.
@@ -59,11 +59,12 @@ Geçtiğimiz haftalarda ODTÜ kamuoyunun görüşlerini almak için bu konuda bi
 
 Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1750 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
 
-Saygılarımızla,
-" data-tippy-content="Kopyalandı. Mail açılıyor">
+Saygılarımızla
+</textarea>
+
+<button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Kopyalandı. Mail açılıyor">
     Metni Kopyala
 </button>
-</div>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>
 <script src="https://unpkg.com/tippy.js@6"></script>
