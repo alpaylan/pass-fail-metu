@@ -11,8 +11,6 @@
 
 [İmza Formu/Signatory Form](http://alperenkeles.me/pass-fail-metu/imza-formu/)
 
-[En Son Atılan Maili Görmek İçin](http://alperenkeles.me/pass-fail-metu/yeni-mail/)
-
 [En Son Atılan Maili Atmak İçin](http://alperenkeles.me/pass-fail-metu/mail/)
 ## Merhabalar Arkadaşlar
 
