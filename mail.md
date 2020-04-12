@@ -63,7 +63,7 @@ Saygılarımızla
 </textarea>
 
 <button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Kopyalandı. Mail açılıyor">
-    Metni Kopyala
+    Metni Kopyala ve Mail'e Devam Et
 </button>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>
