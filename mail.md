@@ -60,10 +60,15 @@ Geçtiğimiz haftalarda ODTÜ kamuoyunun görüşlerini almak için bu konuda bi
 Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1750 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
 
 Saygılarımızla
+
 </textarea>
 
 <button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Kopyalandı. Mail açılıyor">
+<<<<<<< HEAD
     Metni Kopyala ve Mail'e Devam Et
+=======
+    Metni Kopyala ve Devam Et
+>>>>>>> 00f2011b58e1abc54cb613160a184aa71dc2eeb6
 </button>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>
