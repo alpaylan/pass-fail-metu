@@ -57,18 +57,14 @@ Bu sebepten biz ODTÜ öğrencileri olarak, siz üniversite senatosundan, öğre
 
 Geçtiğimiz haftalarda ODTÜ kamuoyunun görüşlerini almak için bu konuda bir anket çalışması düzenledik, 1421 kişinin katıldığı anketimizde %76,7(1090) kişi sisteme karşı pozitif, %15,6(222) kişi sisteme karşı nötr, %7,7(109) kişi pass/fail sistemine karşı negatif olduklarını belirttiler.
 
-<<<<<<< HEAD
-Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1990 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
-=======
-Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1750 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
->>>>>>> f164b63bd03891e1c39ce1f4ab59eb03b986b043
+Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 1943 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
 
 Saygılarımızla
 
 </textarea>
 
 <button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Kopyalandı. Mail açılıyor">
-    Metni Kopyala ve Devam Et
+    Metni Kopyala ve Mail'e Devam Et
 </button>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>
