@@ -10,6 +10,10 @@
 [Süreç](http://alperenkeles.me/pass-fail-metu/process/)
 
 [İmza Formu/Signatory Form](http://alperenkeles.me/pass-fail-metu/imza-formu/)
+
+[En Son Atılan Maili Görmek İçin](http://alperenkeles.me/pass-fail-metu/yeni-mail/)
+
+[En Son Atılan Maili Atmak İçin](http://alperenkeles.me/pass-fail-metu/mail/)
 ## Merhabalar Arkadaşlar
 
 Bu siteyi, Covid-19 Salgını sonucunda oluşan kaos ve düzensizlik ortamında öğrenciler olarak yaşadığımız dezavantajlara bir nebze faydalı olacağını düşündüğümüz optional pass/fail(seçmeli geçme/kalma) adlı şu anki not sisteminden farklı bir sistemle ilgili, bu sisteme ODTÜ'de geçilmesi üzerine yapılan çalışmalarla igili sizleri bilgilendirmek için açtık.
