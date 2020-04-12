@@ -9,6 +9,11 @@
 
  [Process](http://alperenkeles.me/pass-fail-metu/process/)
 
+ [Signatory Form](http://alperenkeles.me/pass-fail-metu/imza-formu/)
+
+ [For The Current Mail](http://alperenkeles.me/pass-fail-metu/mail/)
+
+
  ## Hello Friends,
 
  This site is about a system different from the current grade system named optional pass / fail (elective pass / fail) which we think will be beneficial to the disadvantages we experience as students in the environment of chaos and disorder caused by the Covid-19 Outbreak.  We also intend to inform you about up to date status of the proccedings conducted for the purpose of a system change.
