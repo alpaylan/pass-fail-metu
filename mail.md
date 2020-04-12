@@ -29,7 +29,7 @@ Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir
 
 Saygılarımızla,
 
-<textarea style="display: none;" id="textarea">
+<textarea style="height: 0px; max-height: 0px; width: 0px; max-width: 0px; opacity: 0" id="textarea">
 ODTÜ Senatosuna,
 
 16 Mart 2020 tarihinde YÖK kararı gereğince Covid-19 salgını neticesinde alınan önlemler kapsamında ülkemizdeki üniversitelerde eğitim durdurulmuş olup, daha sonra çevrimiçi uzaktan eğitim yöntemine geçilmiştir.
