@@ -26,7 +26,6 @@
         <span></span>
         <span></span>
     </div>
-    <h1>Redirecting</h1>
 </body>
 
 </html>
