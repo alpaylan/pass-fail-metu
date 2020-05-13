@@ -1,65 +1,55 @@
-ODTÜ Senatosuna,
+ODTÜ Yönetimine,
 
-16 Mart 2020 tarihinde YÖK kararı gereğince Covid-19 salgını neticesinde alınan önlemler kapsamında ülkemizdeki üniversitelerde eğitim durdurulmuş olup, daha sonra çevrimiçi uzaktan eğitim yöntemine geçilmiştir.
-Bu geçiş, normal şartlarda okulumuzun bize sağlamış olduğu barınma, çalışma alanı, çalışma kaynağı, internet erişimi, bilgisayar erişimi gibi pek çok kaynağın sağlanamaması sonucunda eğitimde yüksek ölçüde fırsat eşitsizliğini de beraberinde getirmiştir.
+Öğrenciler olarak 1 aydan uzun süredir yürüttüğümüz seçmeli geçme/kalma sisteminin okulumuzda uygulanmasını amaçlayan çalışmalarımızın sonucunda 13 Mayıs günü ODTÜ Senatosu tarafından verilen kararı uygun bulmuyoruz.
 
-Bu problemlerin bazılarının, okulumuz tarafından çeşitli şekillerde çözülmeye çalışıldığının farkındayız, ancak salgının getirdiği hasta olma, hasta yakını olma gibi bir durumun takdir edersiniz ki sonuçları öğrenci açısından çok ağır olacaktır.
+Sebeplerimiz arasında;
 
-Bir diğer yandan, karantinanın getirdiği sosyal izolasyonun öğrenciler üzerindeki etkisi ölçülebilir düzeyin çok üstündedir. Burada işsizlik, yoksulluk, barınma gibi sorunların yanı sıra hane içi tansiyonun yükselmesi, risk grubundaki bireylerden kaynaklı endişeler ve belki de tahmin edemeyeceğimiz çeşitli durumlarla karşılaşan pek çok öğrenci mevcuttur. Kaldı ki okulun öğrencilere sağlamayı hedeflediği ekstra imkanları geçtiğimiz ay içerisinde sağlayamaması bu öğrencilerin şu ana kadar verilen eğitimde geride kalmasını engellemekte başarısızlığa sebep olmuştur.
+1. Öğrencilerin önerdiği sistemin faydalarının göz ardı edilip, suistimal edilememesi amacıyla pek çok öğrenci tarafından kullanılmaz hale getirilmiş, dönemdeki tüm dersler için tek seçim yapabilmemize izin veren sistemin getirilmesi.
+2. Getirilen sistemle ilgili hiçbir öğrenci ön fikri alınmaması, öğrenci görüşünün yok sayılması.
+3. Sürecin içinde bulunduğumuz karantina sürecinde öğrencileri yoracak, negatif etkileyecek şekilde uzun ve şeffaflıktan uzak bir şekilde yönetilmesi bulunmakta.
 
-Son olarak, çevrimiçi eğitim sonucu verilen eğitimin verimi ve kalitesi düşmektedir, bazı derslerde birebir iletişim fırsatına sahip olabilirken, bazı derslerde ders kitabına bile ulaşmamız mümkün olmamaktadır, çevrimiçi sınavlar ise ne verimli, ne güvenilir ne de ölçücü olabilmektedir.
+Getirilen sistem, öğrencilerin kullanamaması için tasarlanmış önlemlere sahip olup, bu önlemler sebebiyle öğrenci dostu olmaktan çok uzaktır, bu önlemler şunlardır;
 
-Bu gibi sebepler neticesinde, biz öğrenciler, Türkiye'de Koç Üniversitesi, Boğaziçi Üniversitesi, Sabancı Üniversitesi, Bilkent Üniversitesi gibi eğitim kurumlarında, dünya çapında MIT, Berkeley, Northwestern University, University of Michigan, Harvard University, Washington State University, Caltech, Stanford University gibi önde gelen eğitim kurumlarında uygulanan seçmeli geçme/kalma (optional pass/fail – P/F) sisteminin uygulanmasını talep ediyoruz.
+1. Her ders için ayrı seçimler yerine tüm dersler için tek bir seçim yapılması. Bu önlem, herhangi bir öğrencinin dönem başından beri gösterdiği emeğin tamamını etkilemektedir. Farklı dersler farklı çalışma yüklerine sahiptir; biz öğrenciler karantina sürecinde derslerimizin okul dönemiyle eşit bir şekilde devam eden, hatta bazı durumlarda artan yüküne karşın bu yüklere göre kendimizi derslere paylaştırdık, bunun sonucunda farklı derslerden farklı beklentilere sahibiz. Bu sistem, bir öğrencinin ya tüm derslerine yeterli emeği gösteremediği ya da tüm derslerine gösterebildiği varsayımıyla tasarlanmıştır, bu varsayım açıkladığımız sebeplerden hatalıdır.
 
-Öğrencilerin en çok yararına olacağını düşündüğümüz sistem şu şekildedir:
+2. Dönem sonunda duruşun(standing) hesaplanmayacak olması. Bu önlem, anlık olarak sınamalı öğrenci(probation) durumunda olan herhangi bir öğrencinin derslerini geçme/kalma şeklinde notlandırmasını engellemektedir. Dönem içerisinde sınamalı durumda(probation) olan öğrenciler tekrardan aldıkları dersleri geçme/kalma şeklinde notlandırıp not ortalamalarını 2 üzerine çıkarsalar dahi duruşları değişmeyecektir, dolayısıyla sistemi kullanmaları mümkün değildir. 
 
-1 - Öğrenciler, kredili derslerde harf notunun yerine S-Satisfactory ve U-Unsatisfactory notunu seçme imkanına sahip olacaklardır. Bu imkan derslerin harf notları açıklandıktan sonra, öğrencilerin istedikleri derslerde harf notu yerine,Lisans Öğrencileri için DD ve üzerinde, Yüksek Lisans Öğrenciler için CC ve üzerinde aldıkları derslerde S-Satisfactory notunu tercih edebilmesi şeklindedir.
-2 - Harf notu tercih edilen derslerde öğrencilerin sayısal notunun karşılığı, normal dönemlerdeki gibi not ortalaması hesaplamalarına katılacaktır.
-3 - S-Satisfactory notu tercih edilen dersler başarıyla tamamlanmış sayılacak ve kredisi kazanılacak, ancak not ortalamasına etki etmeyecektir.
+Bu önlemlerin yanısıra, alınan sistemin bizim önerdiğimiz sistemle karşılaştırıldığında pek çok dezavantajlı yanı bulunmakla birlikte, üniversite yönetimi bizlerin seslerini dinlemekle ilgilenmemiş, öğrencilere direkt bir iletişim kanalı sağlamamıştır. 
 
-Ülkemizde Koç Üniversitesi ve Sabancı Üniversitesi'nde de aynı şekilde bir P/F sistemi uygulanmaktadır.
+Şu zamana kadar atılan 4 mail, öğrenciler tarafından toplanan 3200 imza, yapılan Twitter çalışmaları sonucunda biz öğrenciler sistemin senatoda tartışılacağını duyduğumuz anda heyecanlanmış, üniversite yönetiminin sesimizi duyduğunu düşünmüştük.
 
-2547 sayılı Yüksek Öğretim Kanunu'nun 44. Maddesi'ne göre, yüksek öğretim kurumu genelinde uygulanacak notlandırma sistemi, yüksek öğretim kurumu senatosuna bağlıdır.
+Alınan karar sonucunda görüyoruz ki, şu zamana kadarki açıklamalarımız yeterince okunmamış, sesimiz duyulmamış.
 
-Bu sebepten biz ODTÜ öğrencileri olarak, siz üniversite senatosundan, öğrenciler düşünülerek şu ana kadar alınan ders bırakma imkanı, dönem dondurma imkanı, bilgisayar ve internet erişiminin sağlanması gibi kararların yanında öğrencilerin motivasyonlarını yükseltecek, onları karantina döneminde rahatlatacak ve mağduriyeti engelleyecek olan seçmeli geçme kalma sistemini uygulamanızı talep ediyoruz.
+Üniversite yönetiminden alınan kararın bizlerin önceki dönemdeki talepleri doğrultusunda revize edilmesini, buna ekstra olarak yönetim ve öğrenciler arasında direkt bir iletişim kanalı kurulması için acil çalışmalar yapılmasını talep ediyoruz. Süreç içinde şu zamana kadar alınan üniversite yönetimi tarafından alınan aksiyonlar bu iletişim kanalının aciliyetini açık bir şekilde göstermektedir.
 
-Geçtiğimiz haftalarda ODTÜ kamuoyunun görüşlerini almak için bu konuda bir anket çalışması düzenledik, 1421 kişinin katıldığı anketimizde %76,7(1090) kişi sisteme karşı pozitif, %15,6(222) kişi sisteme karşı nötr, %7,7(109) kişi pass/fail sistemine karşı negatif olduklarını belirttiler.
-
-Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 2771 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
-
-Saygılarımızla,
+Saygılarımla,
 
 <textarea style="height: 0px; max-height: 0px; width: 0px; max-width: 0px; opacity: 0" id="textarea">
-ODTÜ Senatosuna,
+ODTÜ Yönetimine,
 
-16 Mart 2020 tarihinde YÖK kararı gereğince Covid-19 salgını neticesinde alınan önlemler kapsamında ülkemizdeki üniversitelerde eğitim durdurulmuş olup, daha sonra çevrimiçi uzaktan eğitim yöntemine geçilmiştir.
-Bu geçiş, normal şartlarda okulumuzun bize sağlamış olduğu barınma, çalışma alanı, çalışma kaynağı, internet erişimi, bilgisayar erişimi gibi pek çok kaynağın sağlanamaması sonucunda eğitimde yüksek ölçüde fırsat eşitsizliğini de beraberinde getirmiştir.
+Öğrenciler olarak 1 aydan uzun süredir yürüttüğümüz seçmeli geçme/kalma sisteminin okulumuzda uygulanmasını amaçlayan çalışmalarımızın sonucunda 13 Mayıs günü ODTÜ Senatosu tarafından verilen kararı uygun bulmuyoruz.
 
-Bu problemlerin bazılarının, okulumuz tarafından çeşitli şekillerde çözülmeye çalışıldığının farkındayız, ancak salgının getirdiği hasta olma, hasta yakını olma gibi bir durumun takdir edersiniz ki sonuçları öğrenci açısından çok ağır olacaktır.
+Sebeplerimiz arasında;
 
-Bir diğer yandan, karantinanın getirdiği sosyal izolasyonun öğrenciler üzerindeki etkisi ölçülebilir düzeyin çok üstündedir. Burada işsizlik, yoksulluk, barınma gibi sorunların yanı sıra hane içi tansiyonun yükselmesi, risk grubundaki bireylerden kaynaklı endişeler ve belki de tahmin edemeyeceğimiz çeşitli durumlarla karşılaşan pek çok öğrenci mevcuttur. Kaldı ki okulun öğrencilere sağlamayı hedeflediği ekstra imkanları geçtiğimiz ay içerisinde sağlayamaması bu öğrencilerin şu ana kadar verilen eğitimde geride kalmasını engellemekte başarısızlığa sebep olmuştur.
+1. Öğrencilerin önerdiği sistemin faydalarının göz ardı edilip, suistimal edilememesi amacıyla pek çok öğrenci tarafından kullanılmaz hale getirilmiş, dönemdeki tüm dersler için tek seçim yapabilmemize izin veren sistemin getirilmesi.
+2. Getirilen sistemle ilgili hiçbir öğrenci ön fikri alınmaması, öğrenci görüşünün yok sayılması.
+3. Sürecin içinde bulunduğumuz karantina sürecinde öğrencileri yoracak, negatif etkileyecek şekilde uzun ve şeffaflıktan uzak bir şekilde yönetilmesi bulunmakta.
 
-Son olarak, çevrimiçi eğitim sonucu verilen eğitimin verimi ve kalitesi düşmektedir, bazı derslerde birebir iletişim fırsatına sahip olabilirken, bazı derslerde ders kitabına bile ulaşmamız mümkün olmamaktadır, çevrimiçi sınavlar ise ne verimli, ne güvenilir ne de ölçücü olabilmektedir.
-target
-Bu gibi sebepler neticesinde, biz öğrenciler, Türkiye'de Koç Üniversitesi, Boğaziçi Üniversitesi, Sabancı Üniversitesi, Bilkent Üniversitesi gibi eğitim kurumlarında, dünya çapında MIT, Berkeley, Northwestern University, University of Michigan, Harvard University, Washington State University, Caltech, Stanford University gibi önde gelen eğitim kurumlarında uygulanan seçmeli geçme/kalma (optional pass/fail – P/F) sisteminin uygulanmasını talep ediyoruz.
+Getirilen sistem, öğrencilerin kullanamaması için tasarlanmış önlemlere sahip olup, bu önlemler sebebiyle öğrenci dostu olmaktan çok uzaktır, bu önlemler şunlardır;
 
-Öğrencilerin en çok yararına olacağını düşündüğümüz sistem şu şekildedir:
+1. Her ders için ayrı seçimler yerine tüm dersler için tek bir seçim yapılması. Bu önlem, herhangi bir öğrencinin dönem başından beri gösterdiği emeğin tamamını etkilemektedir. Farklı dersler farklı çalışma yüklerine sahiptir; biz öğrenciler karantina sürecinde derslerimizin okul dönemiyle eşit bir şekilde devam eden, hatta bazı durumlarda artan yüküne karşın bu yüklere göre kendimizi derslere paylaştırdık, bunun sonucunda farklı derslerden farklı beklentilere sahibiz. Bu sistem, bir öğrencinin ya tüm derslerine yeterli emeği gösteremediği ya da tüm derslerine gösterebildiği varsayımıyla tasarlanmıştır, bu varsayım açıkladığımız sebeplerden hatalıdır.
 
-1 - Öğrenciler, kredili derslerde harf notunun yerine S-Satisfactory ve U-Unsatisfactory notunu seçme imkanına sahip olacaklardır. Bu imkan derslerin harf notları açıklandıktan sonra, öğrencilerin istedikleri derslerde harf notu yerine,Lisans Öğrencileri için DD ve üzerinde, Yüksek Lisans Öğrenciler için CC ve üzerinde aldıkları derslerde S-Satisfactory notunu tercih edebilmesi şeklindedir.
-2 - Harf notu tercih edilen derslerde öğrencilerin sayısal notunun karşılığı, normal dönemlerdeki gibi not ortalaması hesaplamalarına katılacaktır.
-3 - S-Satisfactory notu tercih edilen dersler başarıyla tamamlanmış sayılacak ve kredisi kazanılacak, ancak not ortalamasına etki etmeyecektir.
+2. Dönem sonunda duruşun(standing) hesaplanmayacak olması. Bu önlem, anlık olarak sınamalı öğrenci(probation) durumunda olan herhangi bir öğrencinin derslerini geçme/kalma şeklinde notlandırmasını engellemektedir. Dönem içerisinde sınamalı durumda(probation) olan öğrenciler tekrardan aldıkları dersleri geçme/kalma şeklinde notlandırıp not ortalamalarını 2 üzerine çıkarsalar dahi duruşları değişmeyecektir, dolayısıyla sistemi kullanmaları mümkün değildir. 
 
-Ülkemizde Koç Üniversitesi ve Sabancı Üniversitesi'nde de aynı şekilde bir P/F sistemi uygulanmaktadır.
+Bu önlemlerin yanısıra, alınan sistemin bizim önerdiğimiz sistemle karşılaştırıldığında pek çok dezavantajlı yanı bulunmakla birlikte, üniversite yönetimi bizlerin seslerini dinlemekle ilgilenmemiş, öğrencilere direkt bir iletişim kanalı sağlamamıştır. 
 
-2547 sayılı Yüksek Öğretim Kanunu'nun 44. Maddesi'ne göre, yüksek öğretim kurumu genelinde uygulanacak notlandırma sistemi, yüksek öğretim kurumu senatosuna bağlıdır.
+Şu zamana kadar atılan 4 mail, öğrenciler tarafından toplanan 3200 imza, yapılan Twitter çalışmaları sonucunda biz öğrenciler sistemin senatoda tartışılacağını duyduğumuz anda heyecanlanmış, üniversite yönetiminin sesimizi duyduğunu düşünmüştük.
 
-Bu sebepten biz ODTÜ öğrencileri olarak, siz üniversite senatosundan, öğrenciler düşünülerek şu ana kadar alınan ders bırakma imkanı, dönem dondurma imkanı, bilgisayar ve internet erişiminin sağlanması gibi kararların yanında öğrencilerin motivasyonlarını yükseltecek, onları karantina döneminde rahatlatacak ve mağduriyeti engelleyecek olan seçmeli geçme kalma sistemini uygulamanızı talep ediyoruz.
+Alınan karar sonucunda görüyoruz ki, şu zamana kadarki açıklamalarımız yeterince okunmamış, sesimiz duyulmamış.
 
-Geçtiğimiz haftalarda ODTÜ kamuoyunun görüşlerini almak için bu konuda bir anket çalışması düzenledik, 1421 kişinin katıldığı anketimizde %76,7(1090) kişi sisteme karşı pozitif, %15,6(222) kişi sisteme karşı nötr, %7,7(109) kişi pass/fail sistemine karşı negatif olduklarını belirttiler.
+Üniversite yönetiminden alınan kararın bizlerin önceki dönemdeki talepleri doğrultusunda revize edilmesini, buna ekstra olarak yönetim ve öğrenciler arasında direkt bir iletişim kanalı kurulması için acil çalışmalar yapılmasını talep ediyoruz. Süreç içinde şu zamana kadar alınan üniversite yönetimi tarafından alınan aksiyonlar bu iletişim kanalının aciliyetini açık bir şekilde göstermektedir.
 
-Bu maille birlikte optional pass/fail sistemine geçilmesi için çevrimiçi bir imza çalışması başlattığımızı size bildirmek isteriz. Anlık olarak 2771 kişi bu formu doldurmuş, bu konuda imzacı olmuş durumda. Önümüzdeki günlerde bu imza çalışmasıyla ilgili tekrardan iletişime geçeceğiz.
-
-Saygılarımızla
+Saygılarımla,
 
 </textarea>
 
@@ -80,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById('button').addEventListener('click', function() {
         setTimeout(function() {
-            window.location.href = 'mailto:rektor@metu.edu.tr?subject=Alternatif%20Notlandırma%20Sistemi&cc=kok@metu.edu.tr,tgencoz@metu.edu.tr,ahmety@metu.edu.tr,zeyrek@metu.edu.tr,orahmet@metu.edu.tr,balkan@metu.edu.tr,neriman@metu.edu.tr,rsari@metu.edu.tr,ozgul@metu.edu.tr,kyasar@metu.edu.tr,dezeyrek@metu.edu.tr,ougur@metu.edu.tr,sabaris@metu.edu.tr,kalipcil@metu.edu.tr,gtuncer@metu.edu.tr,bkirkici@metu.edu.tr';
+            window.location.href = 'mailto:mailto:kok@metu.edu.tr,orahmet@metu.edu.tr,balkan@metu.edu.tr,neriman@metu.edu.tr,rsari@metu.edu.tr,ozgul@metu.edu.tr,tgencoz@metu.edu.tr,oguzhan@metu.edu.tr,zeyrek@metu.edu.tr?subject=13%20Mayıs%20Günü%20Alınan%20Uzaktan%20Eğitim%20Kararı%20Hakkında';
         }, 550);
     });
 });
