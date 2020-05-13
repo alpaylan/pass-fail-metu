@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById('button').addEventListener('click', function() {
         setTimeout(function() {
-            window.location.href = 'mailto:mailto:kok@metu.edu.tr,orahmet@metu.edu.tr,balkan@metu.edu.tr,neriman@metu.edu.tr,rsari@metu.edu.tr,ozgul@metu.edu.tr,tgencoz@metu.edu.tr,oguzhan@metu.edu.tr,zeyrek@metu.edu.tr?subject=13%20Mayıs%20Günü%20Alınan%20Uzaktan%20Eğitim%20Kararı%20Hakkında';
+            window.location.href = 'mailto:kok@metu.edu.tr,orahmet@metu.edu.tr,balkan@metu.edu.tr,neriman@metu.edu.tr,rsari@metu.edu.tr,ozgul@metu.edu.tr,tgencoz@metu.edu.tr,oguzhan@metu.edu.tr,zeyrek@metu.edu.tr?subject=13%20Mayıs%20Günü%20Alınan%20Uzaktan%20Eğitim%20Kararı%20Hakkında';
         }, 550);
     });
 });
